@@ -1,1 +1,1 @@
-# pulsar-study
+# Pulsar Client Samples
